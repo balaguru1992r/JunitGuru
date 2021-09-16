@@ -87,6 +87,9 @@ public void adactinHotel() throws InterruptedException {
 	String attribute = getAttribute(orderno, "value");
 	System.out.println(attribute);
 	
+	System.out.println("1234");
+	System.out.println("12345");
+	
 	
 	
 }
